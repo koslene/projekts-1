@@ -9,13 +9,13 @@
 # skaitlis = int(input("Iedod skaitli: "))
 
 # if (skaitlis>=20):
-#     print("liels")
+#      print("liels")
 # elif(skaitlis<5):
-#     print("mazs")
+#      print("mazs")
 # elif(skaitlis>10 and skaitlis<20):
-#     print("videjs")
+#      print("videjs")
 # else:
-#     print("normal")
+#      print("normal")
 
 # num1 = int(input("pirmais skaitlis: "))
 # num2 = int(input("otrais skaitlis: "))
