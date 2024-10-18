@@ -23,18 +23,18 @@
 # print(aprekins(num1,num2))
 
 
-def aprekins(num1, num2):
-    reiz = num1*num2
-    if (reiz<=20):
-        return reiz
-    return num1+num2
+# def aprekins(num1, num2):
+#     reiz = num1*num2
+#     if (reiz<=20):
+#         return reiz
+    # return num1+num2
 
-for i in range(-2,10,3): #range (sakums, beigas(neieskaitot), solis)
-    print(aprekins(3,i))
+# for i in range(-2,10,3): #range (sakums, beigas(neieskaitot), solis)
+#     print(aprekins(3,i))
 
-answ = "y"
-while(answ == "y"):
-    sk1 = int(input("pirmais: "))
-    sk2  = int(input("otrais: "))
-    print (aprekins(sk1,sk2))
-    answ = input("turpinat? ('y' 'n'): ")
+# answ = "y"
+# while(answ == "y"):
+#     sk1 = int(input("pirmais: "))
+#     sk2  = int(input("otrais: "))
+#     print (aprekins(sk1,sk2))
+#     answ = input("turpinat? ('y' 'n'): ")
